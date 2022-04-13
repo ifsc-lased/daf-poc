@@ -1,0 +1,18 @@
+/RAM/**
+/SCP*/**
+/SLA/**
+RemoteSystemsTempFiles
+ldscripts
+/**/*.o
+/**/*.d
+/**/*.bin
+/**/*.elf
+/**/*.map
+/**/*.sbin
+/**/*.pyc
+/.settings/**
+# exemplos de código
+.vscode
+*.exe
+src/utils/main.cpp
+src/utils/tests/*.out
